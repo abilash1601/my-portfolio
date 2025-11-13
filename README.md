@@ -4,7 +4,7 @@ Welcome! I'm Abilash, a  aspiring data analyst/data scientist currently based in
 
 ## 🔍 Featured Projects
 
-- **Global Sales Dashboard**: Analyzing sales, profit, and customer trends across 2011–2014.
+- **Global Sales Dashboard**: Analyzing sales, profit, and customer trends across 2011–2014. Dataset used - super store sales data.
 
 ## 📫 Contact
 
