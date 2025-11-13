@@ -4,7 +4,7 @@ Welcome! I'm Abilash, a  aspiring data analyst/data scientist currently based in
 
 ## 🔍 Featured Projects
 
-- **Global Sales Dashboard**: Analyzing sales, profit, and customer trends across 2011–2014. Dataset used- Super store sales data.
+- **Global Sales Dashboard**: Analyzing sales, profit, and customer trends across 2011–2014.
 - **Crime Analysis**: Highlighted hotspots and year-over-year changes to support data-driven decision making.
 - **Zomato Data Insights**: Analyzed restaurant data to track customer preferences, delivery patterns, and ratings.
 
